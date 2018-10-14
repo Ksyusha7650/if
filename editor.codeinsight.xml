@@ -1,0 +1,5 @@
+<application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="jdk.internal.dynalink.beans.StaticClass" />
+  </component>
+</application>
